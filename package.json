@@ -1,0 +1,22 @@
+{
+  "name": "node_learning",
+  "version": "0.1.1",
+  "description": "A simple repo that contains all of my learning about node and javascript. It is also have boilar plate with documentation. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehedi369/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mehedi Abdullah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehedi369/node/issues"
+  },
+  "homepage": "https://github.com/mehedi369/node#readme"
+}
