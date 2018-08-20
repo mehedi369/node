@@ -1,0 +1,1 @@
+{"uid":10107,"gid":10107,"username":"u0_a107","homedir":"/data/data/com.termux/files/home","shell":"/data/data/com.termux/files/usr/bin/login"}
